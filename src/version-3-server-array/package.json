@@ -1,0 +1,15 @@
+{
+  "name": "version-3-server-array",
+  "version": "1.0.0",
+  "description": "This is my nodeJS server for to-do list",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Anuprash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
