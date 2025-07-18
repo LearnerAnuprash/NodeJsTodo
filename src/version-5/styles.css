@@ -1,0 +1,35 @@
+h1{
+    font-size:3rem;
+    display:flex;
+    justify-content:center;
+    color:aliceblue;
+}
+
+.addButton{
+    background-color:rgb(219, 219, 3);
+    cursor:pointer;
+    width:2rem;
+    text-align:center;
+    color:black;
+    font-size:1.7rem;
+    border-radius:2rem;
+    margin-left:2rem;
+}
+
+.containerForInputAndAddButton{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.inputBox{
+    width:20rem;
+    height:2rem;
+    background-color:black;
+    color:white;
+    border:0.2rem solid white;
+}
+
+*{
+    background-color:rgb(86, 85, 85);
+}
